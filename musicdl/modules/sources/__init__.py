@@ -1,4 +1,5 @@
 '''initialize'''
+from __future__ import annotations
 from .qq import QQMusicClient
 from .fma import FMAMusicClient
 from .joox import JooxMusicClient

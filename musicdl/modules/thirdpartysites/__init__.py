@@ -1,4 +1,5 @@
 '''initialize'''
+from __future__ import annotations
 from .mitu import MituMusicClient
 from .kkws import KKWSMusicClient
 from .htqyy import HTQYYMusicClient

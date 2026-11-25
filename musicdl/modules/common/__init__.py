@@ -1,4 +1,5 @@
 '''initialize'''
+from __future__ import annotations
 from .jbsou import JBSouMusicClient
 from .xiaobai import XiaoBaiMusicClient
 from .tunehub import TuneHubMusicClient

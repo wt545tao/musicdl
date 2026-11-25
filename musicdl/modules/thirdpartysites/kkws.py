@@ -6,6 +6,7 @@ Author:
 WeChat Official Account (微信公众号):
     Charles的皮卡丘
 '''
+from __future__ import annotations
 import re
 from bs4 import BeautifulSoup
 from contextlib import suppress

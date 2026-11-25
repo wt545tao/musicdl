@@ -1,4 +1,5 @@
 '''initialize'''
+from __future__ import annotations
 from .sources import MusicClientBuilder, BaseMusicClient, BuildMusicClient
 from .utils import (
     # classes

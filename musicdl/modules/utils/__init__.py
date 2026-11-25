@@ -1,4 +1,5 @@
 '''initialize'''
+from __future__ import annotations
 from .data import SongInfo
 from .hls import HLSDownloader
 from .ip import RandomIPGenerator
